@@ -1,0 +1,1 @@
+This Tableau dashboard analyzes electric vehicle (EV) data across various dimensions such as model year, manufacturer, CAFV eligibility, and geographic distribution.KPIs, interactive filters, and visual insights are all included to track EV adoption trends and find the best-performing models and brands.
